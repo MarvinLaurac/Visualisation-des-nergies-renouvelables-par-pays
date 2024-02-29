@@ -11,6 +11,5 @@ J'ai utiliser Python avec ces bibliothèques comme Pandas pour l'analyse de donn
 
 # DATAFRAME INFO
 
-
 # LICENCE
 kaggle (Database Contents License (DbCL) v1.0).
