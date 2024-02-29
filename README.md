@@ -8,7 +8,6 @@ J'ai utiliser Python avec ces bibliothèques comme Pandas pour l'analyse de donn
 
 # CONTEXTE DU SUJET
 
-
 # DATAFRAME INFO
 
 # LICENCE
